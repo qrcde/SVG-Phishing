@@ -8,7 +8,7 @@
 5 - The user is then redirected to the legitimate Google page to avoid suspicion.<br>
 
 ## How to run:
-1 - Open a terminal and launch netcat as listener:
+1 - Open a terminal and launch **netcat** as listener:
     `sudo nc -l -p 8081`
 
 2 - In a different terminal, go to the folder where the HTML is located and start an HTTP server:
